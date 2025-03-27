@@ -60,4 +60,4 @@
         </pluginRepository>
     </pluginRepositories>
 
-</project
+</project>  <!-- ✅ Ensure this closing tag is present! -->
