@@ -25,3 +25,5 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+</project>  <!-- ✅ Closing tag added -->
