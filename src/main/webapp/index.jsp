@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>TechX Store</title>
+    <title>Puropale Creations & IT Solutions</title>
     <style>
         body {
             background-color: #f4f4f9;
@@ -10,7 +10,7 @@
             padding: 0;
         }
         .header {
-            background: linear-gradient(to right, #1e3c72, #2a5298);
+            background: linear-gradient(to right, #1b3c73, #265a92);
             color: white;
             padding: 20px;
             font-size: 32px;
@@ -30,13 +30,13 @@
             transform: scale(1.02);
         }
         .title {
-            color: #1e3c72;
+            color: #1b3c73;
             font-size: 36px;
             margin-bottom: 20px;
             text-transform: uppercase;
             font-weight: bold;
         }
-        .product-box {
+        .service-box {
             background: #e3f2fd;
             padding: 15px;
             margin: 12px 0;
@@ -46,7 +46,7 @@
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             transition: background 0.3s;
         }
-        .product-box:hover {
+        .service-box:hover {
             background: #bbdefb;
         }
         .footer {
@@ -55,7 +55,7 @@
             color: #444;
             padding: 15px;
             background: #e1f5fe;
-            border-top: 2px solid #1e3c72;
+            border-top: 2px solid #1b3c73;
         }
         @media (max-width: 768px) {
             .container {
@@ -67,7 +67,7 @@
             .title {
                 font-size: 30px;
             }
-            .product-box {
+            .service-box {
                 font-size: 20px;
             }
         }
@@ -76,20 +76,20 @@
 <body>
 
     <div class="header">
-        🛒 Welcome to TechX Store - Your One-Stop Tech Shop! 💻
+        🚀 Welcome to Puropale Creations & IT Solutions 🌍
     </div>
 
     <div class="container">
-        <h1 class="title">Latest Gadgets</h1>
-        <div class="product-box">📱 iPhone 15 Pro Max - 256GB - Titanium Blue</div>
-        <div class="product-box">💻 MacBook Air M3 - 13-inch - Midnight</div>
-        <div class="product-box">🎧 Sony WH-1000XM5 Noise Cancelling Headphones</div>
-        <div class="product-box">⌚ Apple Watch Ultra 2 - Titanium Case</div>
-        <div class="product-box">🎮 PlayStation 5 - Disc Edition</div>
+        <h1 class="title">Our Services</h1>
+        <div class="service-box">💡 Custom Software Development</div>
+        <div class="service-box">☁️ Cloud Computing & DevOps Solutions</div>
+        <div class="service-box">🔍 AI & Data Science Consulting</div>
+        <div class="service-box">🛡️ Cybersecurity & IT Infrastructure</div>
+        <div class="service-box">📲 Mobile & Web Application Development</div>
     </div>
 
     <div class="footer">
-        &copy; 2025 TechX Store. All Rights Reserved. | Powered by <b>Innovation</b> 🚀
+        &copy; 2025 Puropale Creations & IT Solutions. All Rights Reserved. | Innovating the Future 🚀
     </div>
 
 </body>
